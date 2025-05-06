@@ -1,0 +1,8 @@
+# Create environment
+conda create -n open_manus python=3.12
+
+# Clone repository
+git clone https://github.com/mannaandpoem/OpenManus.git
+
+# Install dependencies
+pip install -r requirements.txt
